@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <rect width="100%" height="100%" fill="#e7e2d6"/>
+  <circle cx="420" cy="240" r="204" fill="#bdb29c" opacity="0.16"/>
+  <rect x="48" y="450" width="300" height="9" fill="#bdb29c" opacity="0.5"/>
+  <text x="48" y="375" font-family="monospace" font-size="33" fill="#8a8470">cine-jose-alejandro-zeind-reyes</text>
+  <text x="48" y="420" font-family="monospace" font-size="22" fill="#8a8470" opacity="0.7">imagen de prueba · 600x750</text>
+  
+</svg>
