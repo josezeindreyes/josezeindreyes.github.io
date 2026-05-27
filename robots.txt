@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-DOMINIO/artista/sitemap.xml
+Sitemap: https://josezeindreyes.github.io/sitemap.xml
